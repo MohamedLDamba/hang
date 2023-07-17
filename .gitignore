@@ -1,0 +1,4 @@
+#Ignore env files with sensitive data
+.env*
+.env.local
+.env.production.local
